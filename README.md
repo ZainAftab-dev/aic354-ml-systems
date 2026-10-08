@@ -12,7 +12,9 @@ Course: Machine Learning Fundamentals (AIC354), Instructor: Dr. Rao Muhammad Ade
 ## Contents
 - `AIC354_Assignment2_Zain_Aftab_FA24-BSE-155.ipynb`: full notebook (also as `.html` and `.pdf`)
 - `titanic/`, `heart_disease/`: datasets, encoded data, predictions and trained models (`svc_trained_model.pkl`)
-- `streamlit-app/`: web app serving both models (deployed on Streamlit Community Cloud)
+- `streamlit-app/`: web app serving both models
+
+**Live demo:** https://zain-aic354-ml-systems.streamlit.app
 
 ## Run
     pip install -r requirements.txt
