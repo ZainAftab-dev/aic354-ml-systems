@@ -1,0 +1,298 @@
+ChestPain,Slope,MajorVessels,Thal,HeartDisease
+Typical Angina,Downsloping,Zero,Fixed Defect,0
+Asymptomatic,Flat,Three,Normal,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Non-Anginal Pain,Downsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Downsloping,Two,Normal,1
+Asymptomatic,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Downsloping,Zero,Reversible Defect,1
+Asymptomatic,Flat,Zero,Fixed Defect,0
+Atypical Angina,Flat,Zero,Normal,0
+Non-Anginal Pain,Flat,One,Fixed Defect,1
+Atypical Angina,Upsloping,Zero,Reversible Defect,0
+Non-Anginal Pain,Upsloping,Zero,Reversible Defect,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Atypical Angina,Downsloping,Zero,Reversible Defect,1
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Typical Angina,Flat,Zero,Normal,0
+Typical Angina,Upsloping,Zero,Normal,0
+Atypical Angina,Flat,Zero,Normal,1
+Non-Anginal Pain,Upsloping,Two,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Typical Angina,Downsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Typical Angina,Upsloping,Two,Normal,0
+Asymptomatic,Upsloping,Two,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,1
+Asymptomatic,Flat,Zero,Reversible Defect,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Asymptomatic,Flat,One,Fixed Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Flat,Three,Reversible Defect,1
+Typical Angina,Upsloping,Zero,Reversible Defect,0
+Atypical Angina,Upsloping,Two,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,1
+Non-Anginal Pain,Flat,One,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Non-Anginal Pain,Upsloping,One,Normal,0
+Non-Anginal Pain,Downsloping,Zero,Normal,0
+Atypical Angina,Upsloping,One,Normal,0
+Asymptomatic,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Upsloping,One,Normal,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,One,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Non-Anginal Pain,Flat,One,Reversible Defect,1
+Asymptomatic,Upsloping,Zero,Reversible Defect,1
+Non-Anginal Pain,Downsloping,One,Normal,0
+Typical Angina,Upsloping,One,Normal,0
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Non-Anginal Pain,Downsloping,Zero,Normal,0
+Asymptomatic,Flat,Three,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,1
+Non-Anginal Pain,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Downsloping,Zero,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Upsloping,Two,Fixed Defect,1
+Asymptomatic,Upsloping,One,Normal,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Non-Anginal Pain,Upsloping,One,Normal,0
+Atypical Angina,Flat,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Reversible Defect,1
+Asymptomatic,Flat,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,0
+Asymptomatic,Downsloping,Three,Reversible Defect,1
+Non-Anginal Pain,Flat,Three,Reversible Defect,0
+Non-Anginal Pain,Flat,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,One,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Atypical Angina,Upsloping,One,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Typical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,One,Normal,0
+Non-Anginal Pain,Upsloping,One,Normal,0
+Non-Anginal Pain,Flat,Three,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Upsloping,One,Reversible Defect,1
+Non-Anginal Pain,Flat,One,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Asymptomatic,Flat,One,Normal,1
+Typical Angina,Flat,Zero,Fixed Defect,0
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Non-Anginal Pain,Flat,One,Reversible Defect,1
+Atypical Angina,Flat,Zero,Fixed Defect,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Three,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Upsloping,Two,Reversible Defect,1
+Asymptomatic,Flat,Three,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Downsloping,Zero,Reversible Defect,1
+Typical Angina,Flat,One,Normal,1
+Atypical Angina,Flat,Zero,Normal,0
+Asymptomatic,Downsloping,Two,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Reversible Defect,0
+Non-Anginal Pain,Upsloping,One,Reversible Defect,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Normal,0
+Atypical Angina,Flat,Zero,Normal,0
+Asymptomatic,Downsloping,Zero,Reversible Defect,1
+Atypical Angina,Flat,One,Reversible Defect,1
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Typical Angina,Flat,Zero,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Reversible Defect,0
+Non-Anginal Pain,Upsloping,Zero,Normal,1
+Asymptomatic,Flat,Three,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,One,Normal,0
+Typical Angina,Flat,Zero,Reversible Defect,0
+Asymptomatic,Flat,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Reversible Defect,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Downsloping,One,Normal,1
+Asymptomatic,Flat,Three,Normal,1
+Asymptomatic,Upsloping,Zero,Reversible Defect,1
+Asymptomatic,Upsloping,Two,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Non-Anginal Pain,Upsloping,One,Reversible Defect,0
+Atypical Angina,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Upsloping,Three,Normal,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Two,Normal,0
+Asymptomatic,Upsloping,Zero,Reversible Defect,0
+Atypical Angina,Upsloping,One,Normal,0
+Asymptomatic,Upsloping,Zero,Reversible Defect,1
+Atypical Angina,Flat,Zero,Normal,0
+Non-Anginal Pain,Flat,One,Reversible Defect,1
+Asymptomatic,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Flat,Zero,Normal,1
+Asymptomatic,Flat,Zero,Normal,0
+Asymptomatic,Flat,Two,Fixed Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Upsloping,Three,Reversible Defect,0
+Asymptomatic,Flat,One,Fixed Defect,1
+Non-Anginal Pain,Upsloping,One,Normal,0
+Non-Anginal Pain,Upsloping,Three,Normal,0
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Typical Angina,Upsloping,Two,Normal,0
+Typical Angina,Downsloping,Zero,Reversible Defect,0
+Asymptomatic,Upsloping,Zero,Normal,1
+Atypical Angina,Upsloping,Two,Normal,0
+Non-Anginal Pain,Downsloping,Zero,Reversible Defect,0
+Atypical Angina,Flat,Three,Fixed Defect,1
+Atypical Angina,Upsloping,One,Reversible Defect,1
+Non-Anginal Pain,Flat,Three,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Three,Reversible Defect,1
+Asymptomatic,Flat,Three,Normal,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Flat,Two,Normal,1
+Typical Angina,Flat,One,Normal,0
+Asymptomatic,Flat,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Typical Angina,Upsloping,Zero,Normal,1
+Asymptomatic,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,One,Reversible Defect,0
+Non-Anginal Pain,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Upsloping,Zero,Reversible Defect,0
+Asymptomatic,Flat,Three,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Typical Angina,Flat,Zero,Reversible Defect,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Upsloping,One,Normal,1
+Typical Angina,Flat,Zero,Reversible Defect,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,0
+Asymptomatic,Flat,Two,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Flat,Two,Normal,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,One,Normal,0
+Asymptomatic,Flat,One,Normal,1
+Asymptomatic,Upsloping,One,Normal,1
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,1
+Non-Anginal Pain,Upsloping,Three,Normal,1
+Atypical Angina,Upsloping,One,Normal,0
+Non-Anginal Pain,Upsloping,One,Normal,0
+Asymptomatic,Flat,Two,Normal,1
+Asymptomatic,Downsloping,Zero,Reversible Defect,1
+Asymptomatic,Upsloping,Zero,Reversible Defect,1
+Atypical Angina,Flat,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,Zero,Normal,0
+Typical Angina,Flat,Two,Normal,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,1
+Asymptomatic,Upsloping,One,Reversible Defect,1
+Asymptomatic,Flat,One,Normal,1
+Asymptomatic,Upsloping,Two,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Fixed Defect,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Normal,0
+Asymptomatic,Upsloping,Two,Normal,0
+Non-Anginal Pain,Flat,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Normal,0
+Atypical Angina,Upsloping,Zero,Reversible Defect,1
+Non-Anginal Pain,Flat,One,Normal,0
+Atypical Angina,Upsloping,Two,Normal,1
+Typical Angina,Upsloping,Zero,Normal,0
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,One,Normal,1
+Asymptomatic,Flat,Zero,Fixed Defect,1
+Non-Anginal Pain,Flat,One,Fixed Defect,1
+Asymptomatic,Upsloping,Zero,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,One,Reversible Defect,1
+Asymptomatic,Upsloping,Zero,Fixed Defect,0
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Flat,Zero,Normal,0
+Typical Angina,Upsloping,Two,Normal,1
+Typical Angina,Flat,Zero,Reversible Defect,0
+Non-Anginal Pain,Flat,One,Normal,0
+Non-Anginal Pain,Flat,Zero,Normal,0
+Atypical Angina,Upsloping,One,Normal,1
+Asymptomatic,Flat,Zero,Normal,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Non-Anginal Pain,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,One,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Upsloping,One,Reversible Defect,1
+Asymptomatic,Downsloping,Three,Fixed Defect,1
+Asymptomatic,Flat,Two,Fixed Defect,1
+Atypical Angina,Upsloping,Zero,Reversible Defect,0
+Atypical Angina,Downsloping,Zero,Normal,0
+Non-Anginal Pain,Flat,Zero,Reversible Defect,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Downsloping,Zero,Fixed Defect,1
+Asymptomatic,Upsloping,Two,Reversible Defect,1
+Asymptomatic,Flat,Zero,Normal,1
+Atypical Angina,Upsloping,Zero,Normal,0
+Asymptomatic,Flat,Two,Fixed Defect,1
+Asymptomatic,Flat,Zero,Reversible Defect,1
+Typical Angina,Flat,Zero,Reversible Defect,1
+Asymptomatic,Flat,Two,Reversible Defect,1
+Asymptomatic,Flat,One,Reversible Defect,1
+Atypical Angina,Flat,One,Normal,1
